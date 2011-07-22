@@ -10,6 +10,7 @@
     <location>origin</location>
     <name>sw_xk1_examples</name>
     <maintainer>davelxmos</maintainer>
+    <release parenthash = "8e66e6121924e7e35b7706f501d95f007864b79c" version = "1.0.0beta0"></release>
     <scope>example</scope>
     <vendor>XMOS</vendor>
     <xpd_version>1.0</xpd_version>
