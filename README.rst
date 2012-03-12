@@ -1,13 +1,12 @@
 XK-1 Examples
 .............
 
-:Stable release:  1.0.0
+:Latest release: 1.0.0rc1
+:Maintainer: davelxmos
+:Description: Code examples for the XK-1 development board.
 
-:Status:  Examples
 
-:Maintainer:  davelxmos
 
-:Description:  A collection of examples for the XK-1 development board
 
 
 Key Features
@@ -16,13 +15,13 @@ Key Features
 * Simple examples for the XC-1A development board
 * Used to create new project templates in the XDE
 
-
 Known Issues
 ============
 
 * None
 
-Required Repositories
-================
+Required software (dependencies)
+================================
 
-* xcommon git\@github.com:xcore/xcommon.git
+  * xcommon (if using development tools earlier than 11.11.0)
+
